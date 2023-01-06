@@ -1,4 +1,4 @@
-  <!-- Downloaded From uhttps://github.com/sabirans04 -->
+  <!-- Downloaded From https://github.com/sabirans04 -->
 <div>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sabirans04/whatsapp-floating-button/assets/css/font-awesome.css">
     <style>
@@ -62,4 +62,4 @@
       </div>
     
   </div>
-  <!-- Downloaded From uhttps://github.com/sabirans04 -->
+  <!-- Downloaded From https://github.com/sabirans04 -->
