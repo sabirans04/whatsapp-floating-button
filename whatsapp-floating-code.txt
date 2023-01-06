@@ -1,0 +1,65 @@
+  <!-- Downloaded From uhttps://github.com/sabirans04 -->
+<div>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sabirans04/whatsapp-floating-button/assets/css/font-awesome.css">
+    <style>
+    .integration-fixed {
+    position: fixed;
+    z-index: 10000000;
+  }
+  .integration-fixed__top-left {
+    top: 0;
+    left: 0;
+  }
+  .integration-fixed__top-right {
+    top: 0;
+    right: 0;
+  }
+  .integration-fixed__bottom-left {
+    bottom: 0;
+    left: 0;
+  }
+  .integration-fixed__bottom-right {
+    bottom: 0;
+    right: 0;
+  }
+  .whatsapp-container {
+    padding: 24px;
+  }
+  .whatsapp-button {
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #fff !important;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none !important;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    transform: scale(0.9);
+  }
+  .whatsapp-button:hover {
+    transform: scale(1);
+    background-color: #1fcc5f;
+  }
+    </style>
+    
+    <div class="integration-fixed integration-fixed__bottom-left">
+      <div class="whatsapp-container">
+          <a href="https://api.whatsapp.com/send?phone=+911234567890" target="_blank" class="whatsapp-button">
+              <i class="fa fa-whatsapp"></i>
+          </a>
+      </div>
+      </div>
+    
+  </div>
+  <!-- Downloaded From uhttps://github.com/sabirans04 -->
